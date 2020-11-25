@@ -1,0 +1,7 @@
+C:\Users\leuco\source\repos\BFpswCracker\BFpswCracker\bin\Debug\BFpswCracker.exe.config
+C:\Users\leuco\source\repos\BFpswCracker\BFpswCracker\bin\Debug\BFpswCracker.exe
+C:\Users\leuco\source\repos\BFpswCracker\BFpswCracker\bin\Debug\BFpswCracker.pdb
+C:\Users\leuco\source\repos\BFpswCracker\BFpswCracker\obj\Debug\BFpswCracker.csprojAssemblyReference.cache
+C:\Users\leuco\source\repos\BFpswCracker\BFpswCracker\obj\Debug\BFpswCracker.csproj.CoreCompileInputs.cache
+C:\Users\leuco\source\repos\BFpswCracker\BFpswCracker\obj\Debug\BFpswCracker.exe
+C:\Users\leuco\source\repos\BFpswCracker\BFpswCracker\obj\Debug\BFpswCracker.pdb
